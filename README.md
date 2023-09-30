@@ -1,4 +1,4 @@
-# Data Science Experience Requirements in the Job Market
+# Data Science and Experience Requirements
 
 - [Introduction](#introduction)
 - [Skills to Enhance](#utilized-skills)
