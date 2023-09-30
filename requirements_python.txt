@@ -1,0 +1,17 @@
+langdetect
+googletrans
+beautifulsoup4
+datetime
+multiprocessing
+concurrent.futures
+tqdm
+word2number
+pandas
+pickle
+numpy
+requests
+re
+os
+glob
+termcolor
+scikit-learn
