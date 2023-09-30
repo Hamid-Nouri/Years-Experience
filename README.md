@@ -1,17 +1,33 @@
-# Job Description Analysis
+# Data Science Experience Requirements in the Job Market
 
-## Description
+- [Introduction](#introduction)
+- [Skills to Enhance](#utilized-skills)
+- [Data Visualization](#vizualization)  
+- [Data Management](#management)  
+- [Data Source](#source)
 
-This repository contains a Python script for analyzing job descriptions to determine the years of experience and level of expertise required. The model is trained on job postings from the Netherlands. The machine learning model leverages TF-IDF (Term Frequency-Inverse Document Frequency) and logistic regression for this analysis.
+## Introduction <a name="introduction"></a>
 
-## Prerequisites
+When can someone in Data Science expect to have career advancement? 
 
-Before you begin, ensure you have met the following requirements:
+Well, let the data [answer](https://public.tableau.com/app/profile/hamid.nouri/viz/ExperienceLevelinJobMarket/Dashboard2) it for you.
 
-- Python 3.8
+## Project Skills <a name="utilized-skills"></a>
+- #### Machine Learning
+- #### Apache Airflow
+- #### Data Cleaning
+- #### BigQuery
+- #### Tableau
+- #### Python
+- #### SQL
 
-Use `pip` to install the required packages:
+## Data Visualization <a name="vizualization"></a>  
 
-```bash
-pip install -r requirements_python.txt
+[Tableau](https://public.tableau.com/app/profile/hamid.nouri/viz/ExperienceLevelinJobMarket/Dashboard2) is used to create an interactive dashboard for visualizing and understanding data trends.
 
+## Data Management <a name="management"></a>
+
+<img src="airflow.png" alt="Airflow">
+
+## Data Source <a name="source"></a>  
+Grateful acknowledgment to [Luke Barousse](https://www.youtube.com/c/lukebarousse) for generously providing the dataset, and database.
