@@ -15,4 +15,3 @@ Use `pip` to install the required packages:
 ```bash
 pip install -r requirements_python.txt
 
-
