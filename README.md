@@ -1,7 +1,7 @@
 # Data Science and Experience Requirements
 
 - [Introduction](#introduction)
-- [Skills to Enhance](#utilized-skills)
+- [Project Technical Skills](#utilized-skills)
 - [Data Visualization](#vizualization)  
 - [Data Management](#management)  
 - [Data Source](#source)
