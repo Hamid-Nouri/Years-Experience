@@ -24,7 +24,7 @@ Well, let the data [answer](https://public.tableau.com/app/profile/hamid.nouri/v
 ## Data Visualization <a name="vizualization"></a>  
 
 [Tableau](https://public.tableau.com/app/profile/hamid.nouri/viz/ExperienceLevelinJobMarket/Dashboard2) is used to create an interactive dashboard for visualizing and understanding data trends.
-
+<img src="Tableau.png" alt="Tableau">
 ## Data Management <a name="management"></a>
 
 <img src="airflow.png" alt="Airflow">
